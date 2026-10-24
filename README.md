@@ -1,4 +1,4 @@
-#WhatsApp Baileys ©®Gunz
+# WhatsApp Baileys ©®Gunz
 
 <p align="center">
   <img src="https://files.catbox.moe/kkku7t.jpg" alt="WhatsApp Baileys Banner" width="600" />
