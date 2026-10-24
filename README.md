@@ -46,7 +46,7 @@
 
 ---
 
-🚀 About
+# 🚀About
 
 WhatsApp Baileys is an open-source library designed to build WhatsApp automation and integration solutions efficiently and directly. Powered by WebSocket technology — no browser required — it delivers a powerful feature set covering message management, chat handling, group administration, interactive messages, and action buttons for a fully dynamic user experience.
 
@@ -62,7 +62,7 @@ Perfect for:
 
 ---
 
-✨ Key Features
+# ✨ Key Features
 
 Feature Description
 🔐 Custom Pairing Automatic and fully customizable pairing process
@@ -76,7 +76,7 @@ Feature Description
 
 ---
 
-📦 Installation
+# 📦 Installation
 
 Install via your preferred package manager, then follow the included configuration guide. Ready-made examples are provided to help you quickly understand each feature. Use session storage and interactive messaging capabilities to build complete, stable solutions tailored to your business needs.
 
@@ -86,9 +86,9 @@ npm install github:kucingbails/baileys
 
 ---
 
-🔧 Additional Functions
+# 🔧 Additional Functions
 
-📡 Check Channel ID
+# 📡 Check Channel ID
 
 Retrieve a channel ID from its URL:
 
@@ -96,7 +96,7 @@ Retrieve a channel ID from its URL:
 const id = await sock.newsletterId(url);
 ```
 
-🚫 Check Banned Number
+# 🚫 Check Banned Number
 
 View the status of blocked numbers:
 
@@ -106,7 +106,7 @@ const status = await sock.checkWhatsApp(target);
 
 ---
 
-💬 SendMessage Documentation
+# 💬 SendMessage Documentation
 
 1. Group Status V2
 
@@ -452,7 +452,7 @@ await sock.sendMessage(target, {
 
 ---
 
-🏆 Why Choose This Library
+# 🏆 Why Choose This Library
 
 This library delivers high stability, full features, and a continuously refined pairing process — ideal for developers building professional, secure WhatsApp automation solutions. Native support for the latest WhatsApp features ensures long-term compatibility with platform updates.
 
@@ -460,7 +460,7 @@ Whether you're launching a customer service bot, an e-commerce notifier, or a fu
 
 ---
 
-🔗 Repository
+# 🔗 Repository
 
 Resource Link
 🐙 GitHub github.com/kucingbails
@@ -469,7 +469,7 @@ Resource Link
 
 ---
 
-🛠️ Technical Notes
+# 🛠️ Technical Notes
 
 · ✅ Stable & secure custom pairing codes
 · ✅ Fixes for previous pairing and authentication issues
